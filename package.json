@@ -1,8 +1,8 @@
 {
-  "name": "hello-component",
+  "name": "ohhello-component",
   "version": "0.0.1",
   "description": "",
-  "main": "lib/hello-component.min.js",
+  "main": "lib/ohhello-component.min.js",
   "scripts": {
     "build": "webpack --env dev && webpack --env build",
     "dev": "webpack --progress --colors --watch --env dev"
