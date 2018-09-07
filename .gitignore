@@ -1,3 +1,4 @@
 node_modules
 .vscode
-lib/ohhello-component.js
+lib
+npm-debug.log
