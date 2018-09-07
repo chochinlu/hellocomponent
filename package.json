@@ -1,6 +1,6 @@
 {
   "name": "ohhello-component",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "files": [
     "lib/ohhello-component.min.js"
